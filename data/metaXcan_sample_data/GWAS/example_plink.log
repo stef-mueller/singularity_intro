@@ -1,0 +1,23 @@
+PLINK v1.90b3v 64-bit (15 Jul 2015)
+Options in effect:
+  --allow-no-sex
+  --dosage 
+dosagefiles-hapmap2/chr22.dosage.txt.gz noheader format=1 skip0=1 skip1=1 skip2=1 Zout
+  --fam GWAS.fam
+  --filter GWAS.filter 1
+  --out chr22
+
+Random number seed: 1438697439
+7966 MB RAM detected; reserving 3983 MB for main workspace.
+423 people (0 males, 0 females, 423 ambiguous) loaded from .fam.
+Ambiguous sex IDs written to chr22.nosex .
+423 phenotype values loaded from .fam.
+--filter: 346 people remaining.
+Using 1 thread (no multithreaded calculations invoked).
+346 people pass filters and QC.
+Phenotype data is quantitative.
+--dosage: Reading from
+dosagefiles-hapmap2/chr22.dosage.txt.gz.
+--dosage: Results saved to chr22.assoc.dosage.gz .
+
+End time: Tue Aug  4 11:10:40 2015
