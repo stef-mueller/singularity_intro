@@ -59,7 +59,7 @@ Not necessary on CS cluster, singularity is in PATH.
 
 #### 1.1.2 Pull Image from dockerhub
 ```
-singularity pull stefmueller/plink2:20190326
+singularity pull docker://stefmueller/plink2:20190326
 ```
 
 Expected output:
